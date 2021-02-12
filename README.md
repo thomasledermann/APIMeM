@@ -1,5 +1,4 @@
-# APIMeM
-Actor-Partner Interdependence Mediation Model (APIMeM)
+# Actor-Partner Interdependence Mediation Model (APIMeM)
 
 Amos, R, and Mplus files are provided for the Actor-Partner Interdependence Model (APIMeM).
 
